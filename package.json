@@ -1,0 +1,8 @@
+{
+  "name": "weathershopper_autotests",
+  "repository": "https://github.com/KateKorneeva/weathershopper_autotests.git",
+  "author": "Kate Korneeva <korneevaed@gmail.com>",
+  "dependencies": {
+    "codeceptjs": "3.5.4"
+  }
+}
